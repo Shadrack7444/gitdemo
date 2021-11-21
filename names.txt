@@ -1,8 +1,4 @@
 sam
 dilli deva
-<<<<<<< HEAD
-anil
-=======
 anil
 samson
->>>>>>> sam
